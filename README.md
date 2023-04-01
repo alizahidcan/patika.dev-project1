@@ -1,5 +1,5 @@
 # patika.dev-projects
-It is just homeworks 
+It is just homework 
 <h2>Patika Adress</h2>
 <a href="https://app.patika.dev/alizahidcan">Visit my Patika Adress </a>
 
